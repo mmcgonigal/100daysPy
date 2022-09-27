@@ -1,0 +1,6 @@
+print("hello world")
+print("String Concatenation is done with the \"+\" sign.")
+print("New lines can be created with a backslash and n. ")
+print("Hello world\nHello world\nHello world")
+print("Hello"+" mina")
+print("Hello"+" " + "mina")
